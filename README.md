@@ -142,12 +142,10 @@ For production use, consider:
 
 ## Notes
 
-- This interface processes one image at a time as specified
-- Images are processed in memory and not permanently stored
+- This interface processes multiple images at a time as specified
+- Images are processed in memory and downloaded as a zip file
 - The model is loaded once at startup for efficiency
 
-## Support
 
-For issues or questions, please contact the development team.
 
 
