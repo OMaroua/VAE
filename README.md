@@ -4,11 +4,11 @@ A web-based interface for running inference on trained VAE (Variational Autoenco
 
 ## Features
 
-- 🖼️ **Image Upload**: Drag-and-drop or click to upload images
-- 🚀 **Real-time Processing**: Process images through your trained VAE model
-- 📥 **Download Results**: Download processed images
-- 🎨 **Modern UI**: Clean, responsive web interface
-- ⚡ **One Image at a Time**: Processes single images as required
+- **Image Upload**: Drag-and-drop or click to upload images
+- **Real-time Processing**: Process images through your trained VAE model
+- **Download Results**: Download processed images
+- **Modern UI**: Clean, responsive web interface
+- **One Image at a Time**: Processes single images as required
 
 ## Setup Instructions
 
